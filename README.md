@@ -1,9 +1,9 @@
 # SQL Springboard Project
 
 ### Data Wrangling with SQL:
-##### Exploratory analysis on a country club database.
+##### Exploratory analysis on a country club dataset.
 
-###### The database has been divided into three tables: 
+###### The dataset has been divided into three different tables: 
 
 [Bookings Table](https://github.com/joaobecker/springboard_sql_project_1/blob/master/Bookings.sql)
 
