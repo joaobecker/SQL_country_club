@@ -11,6 +11,6 @@
 
 [Members Table](https://github.com/joaobecker/springboard_sql_project_1/blob/master/Members.sql)
 
-###### Here is the file with question and answer IN (SQL): 
+###### Here is the file with questions and answers IN (SQL): 
 
 [Project File](https://github.com/joaobecker/springboard_sql_project_1/blob/master/sql_project_1.sql)
